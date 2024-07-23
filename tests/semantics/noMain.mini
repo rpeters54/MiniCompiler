@@ -1,0 +1,6 @@
+
+# should throw error since no main
+
+fun foo() int {
+    return 0;
+}
